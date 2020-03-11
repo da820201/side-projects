@@ -1,6 +1,9 @@
 #autoencoder
 ### 程式目的: 訓練出能隱含出時間序列維度關係的模型
+
+### 模型蓋覽:
 ![Imgur](https://imgur.com/LzQBQ1b.jpg)
+
 ### 程式概念:
         1.將具有"一個"時間序列關係的數據，拆分成"多個"單獨時間的數據，以此來訓練多個小Autoencoder
         
